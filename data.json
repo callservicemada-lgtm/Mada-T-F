@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "karazana": "fiara",
+    "anarana": "Toyota Hilux GD6",
+    "vidy": "115.000.000 Ar",
+    "sary": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=800",
+    "details": "Taona 2021, 4x4, Diesel, mbola vaovao be.",
+    "tel": "261340000000"
+  },
+  {
+    "id": 2,
+    "karazana": "trano",
+    "anarana": "Villa F5 Imerinafovoany",
+    "vidy": "350.000.000 Ar",
+    "sary": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+    "details": "Trano vao vita, misy rano sy jiro, titré et borné.",
+    "tel": "261340000000"
+  }
+]
