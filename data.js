@@ -58,9 +58,9 @@ const db = [
     {
         sary: "https://images.unsplash.com/photo-1506126613408-eca07ce68773", 
         vidy: "65.000.000 Ar", 
-        anarana: "Tany malalaka eny Ivato", 
+        anarana: "Talata volonondry", 
         details: "Tany 1000m² akaiky ny seranam-piaramanidina. Mety tsara ho an'ny fampiasam-bola.", 
         karazana: "tany", 
         tel: "261340000000"
     }
-];
+]
