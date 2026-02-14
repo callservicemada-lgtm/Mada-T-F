@@ -61,6 +61,6 @@ const db = [
         anarana: "Talata volonondry", 
         details: "Tany 1000m² akaiky ny seranam-piaramanidina. Mety tsara ho an'ny fampiasam-bola.", 
         karazana: "tany", 
-        tel: "261340000000"
+        tel: "261385536610"
     }
 ]
